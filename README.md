@@ -12,6 +12,7 @@
 | [0162-find-peak-element](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0875-koko-eating-bananas) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -38,6 +39,7 @@
 | [0162-find-peak-element](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Depth-First Search
 |  |
