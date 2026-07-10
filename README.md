@@ -14,6 +14,7 @@
 | [0704-binary-search](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0875-koko-eating-bananas) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -40,6 +41,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Depth-First Search
 |  |
