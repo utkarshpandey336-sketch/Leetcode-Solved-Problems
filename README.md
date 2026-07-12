@@ -10,6 +10,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0875-koko-eating-bananas) |
@@ -41,6 +42,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0875-koko-eating-bananas) |
@@ -70,6 +72,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0410-split-array-largest-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Graph Theory
@@ -85,4 +88,12 @@
 | [0743-network-delay-time](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
