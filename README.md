@@ -23,6 +23,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1631-path-with-minimum-effort) |
@@ -110,6 +111,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Math
 |  |
 | ------- |
