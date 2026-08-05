@@ -85,6 +85,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0410-split-array-largest-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -133,6 +134,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -161,4 +163,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
