@@ -159,6 +159,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0050-powx-n) |
 | [1248-count-number-of-nice-subarrays](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1922-count-good-numbers](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1922-count-good-numbers) |
 ## Counting
 |  |
 | ------- |
@@ -180,4 +181,5 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
