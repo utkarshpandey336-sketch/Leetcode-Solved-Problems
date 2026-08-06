@@ -157,6 +157,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0050-powx-n) |
 | [1248-count-number-of-nice-subarrays](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 ## Counting
 |  |
@@ -175,4 +176,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0022-generate-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
