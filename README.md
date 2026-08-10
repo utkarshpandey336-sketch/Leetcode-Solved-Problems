@@ -89,6 +89,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0410-split-array-largest-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -161,6 +162,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1922-count-good-numbers) |
 ## Counting
@@ -192,4 +194,8 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0090-subsets-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
