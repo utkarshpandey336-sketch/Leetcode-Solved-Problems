@@ -18,6 +18,7 @@
 | [0213-house-robber-ii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0875-koko-eating-bananas) |
@@ -96,6 +97,7 @@
 | [0198-house-robber](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Graph Theory
@@ -208,4 +210,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
