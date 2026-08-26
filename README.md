@@ -97,6 +97,7 @@
 | [0022-generate-parentheses](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0322-coin-change) |
@@ -158,6 +159,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0516-longest-palindromic-subsequence) |
