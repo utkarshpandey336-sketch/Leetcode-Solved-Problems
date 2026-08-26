@@ -104,6 +104,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Graph Theory
 |  |
@@ -158,6 +159,7 @@
 | [0076-minimum-window-substring](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0516-longest-palindromic-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
