@@ -36,6 +36,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1048-longest-string-chain](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -121,6 +122,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1048-longest-string-chain](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -166,6 +168,7 @@
 | [0904-fruit-into-baskets](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0992-subarrays-with-k-different-integers) |
+| [1048-longest-string-chain](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
@@ -182,6 +185,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0583-delete-operation-for-two-strings) |
+| [1048-longest-string-chain](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -257,11 +261,13 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0455-assign-cookies) |
+| [1048-longest-string-chain](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1048-longest-string-chain) |
 ## Sorting
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0455-assign-cookies) |
+| [1048-longest-string-chain](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1048-longest-string-chain) |
 ## Quicksort
 |  |
 | ------- |
