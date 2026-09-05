@@ -171,6 +171,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0076-minimum-window-substring) |
+| [0202-happy-number](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0930-binary-subarrays-with-sum) |
@@ -217,6 +218,7 @@
 | [0050-powx-n](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -273,6 +275,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0455-assign-cookies) |
 | [1048-longest-string-chain](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1048-longest-string-chain) |
 ## Sorting
@@ -307,4 +310,8 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
