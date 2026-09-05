@@ -184,6 +184,7 @@
 | [0072-edit-distance](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0583-delete-operation-for-two-strings) |
@@ -262,6 +263,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0455-assign-cookies) |
 | [1048-longest-string-chain](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1048-longest-string-chain) |
 ## Sorting
