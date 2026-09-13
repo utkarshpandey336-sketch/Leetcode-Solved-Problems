@@ -29,6 +29,7 @@
 | [0410-split-array-largest-sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0455-assign-cookies) |
+| [0525-contiguous-array](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0704-binary-search) |
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0410-split-array-largest-sum) |
+| [0525-contiguous-array](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0525-contiguous-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -175,6 +177,7 @@
 | [0076-minimum-window-substring](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0992-subarrays-with-k-different-integers) |
