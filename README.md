@@ -37,6 +37,7 @@
 | [0875-koko-eating-bananas](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -161,6 +162,7 @@
 | [0410-split-array-largest-sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0525-contiguous-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -180,6 +182,7 @@
 | [0525-contiguous-array](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1048-longest-string-chain](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1248-count-number-of-nice-subarrays) |
