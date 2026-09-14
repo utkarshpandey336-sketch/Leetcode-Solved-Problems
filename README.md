@@ -50,6 +50,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1539-kth-missing-positive-number) |
+| [1590-make-sum-divisible-by-p](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-path-with-minimum-effort](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Breadth-First Search
@@ -170,6 +171,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1590-make-sum-divisible-by-p](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
@@ -193,6 +195,7 @@
 | [1048-longest-string-chain](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1590-make-sum-divisible-by-p](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1590-make-sum-divisible-by-p) |
 ## String
 |  |
 | ------- |
