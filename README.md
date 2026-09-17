@@ -43,6 +43,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1029-two-city-scheduling](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1029-two-city-scheduling) |
 | [1048-longest-string-chain](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -158,6 +159,7 @@
 | [0410-split-array-largest-sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1029-two-city-scheduling](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1029-two-city-scheduling) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -304,6 +306,7 @@
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0455-assign-cookies) |
+| [1029-two-city-scheduling](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1029-two-city-scheduling) |
 | [1048-longest-string-chain](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1048-longest-string-chain) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Quicksort
@@ -339,4 +342,12 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0523-continuous-subarray-sum) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
