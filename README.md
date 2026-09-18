@@ -22,6 +22,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -188,6 +189,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0525-contiguous-array) |
@@ -248,6 +250,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 ## Stack
 |  |
@@ -306,6 +309,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0455-assign-cookies) |
 | [1029-two-city-scheduling](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1029-two-city-scheduling) |
@@ -352,4 +356,8 @@
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1029-two-city-scheduling) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
