@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0040-combination-sum-ii) |
+| [0056-merge-intervals](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -315,6 +316,7 @@
 | ------- |
 | [0015-3sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0455-assign-cookies) |
@@ -324,6 +326,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0455-assign-cookies) |
 ## Complete Knapsack
 |  |
