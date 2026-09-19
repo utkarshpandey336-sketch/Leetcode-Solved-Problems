@@ -15,6 +15,7 @@
 | [0074-search-a-2d-matrix](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -306,6 +307,7 @@
 | ------- |
 | [0015-3sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0283-move-zeroes) |
@@ -317,6 +319,7 @@
 | [0015-3sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0455-assign-cookies) |
