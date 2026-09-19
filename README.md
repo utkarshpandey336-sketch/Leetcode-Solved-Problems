@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0035-search-insert-position) |
@@ -301,6 +302,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0283-move-zeroes) |
@@ -309,6 +311,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0455-assign-cookies) |
