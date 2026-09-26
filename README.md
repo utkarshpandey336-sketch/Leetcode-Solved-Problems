@@ -30,6 +30,7 @@
 | [0229-majority-element-ii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0368-largest-divisible-subset) |
@@ -88,6 +89,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0704-binary-search) |
@@ -286,6 +288,7 @@
 | ------- |
 | [0078-subsets](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Memoization
 |  |
 | ------- |
@@ -313,6 +316,7 @@
 | [0125-valid-palindrome](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0455-assign-cookies) |
 | [1048-longest-string-chain](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/1048-longest-string-chain) |
 ## Sorting
@@ -358,9 +362,11 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/utkarshpandey336-sketch/Leetcode-Solved-Problems/tree/master/0523-continuous-subarray-sum) |
 ## Hungarian Algorithm
 |  |
